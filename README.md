@@ -1,2 +1,2 @@
-# mods_and_newmods
-download files for auto update 
+# Этот репозиторий служит хрнилищем для автообновления моей программы
+
